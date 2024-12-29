@@ -2,8 +2,6 @@
 
 A modern, professional resume builder specifically designed for Product Managers targeting FAANG companies. Built with React, TypeScript, and Tailwind CSS.
 
-![FAANG PM Resume Builder](https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80&w=1200)
-
 ## 🌟 Features
 
 - **Live Preview**: See your resume updates in real-time
@@ -81,4 +79,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com)
+For any questions or feedback, please reach out to [akshay.joshiv@gmail.com](mailto:akshay.joshiv@gmail.com)
